@@ -25,7 +25,7 @@ Install [Homebrew](http://brew.sh/). Then run this one-time setup:
 ```shell
 brew update
 brew install git
-brew tap dbt-labs/dbt
+brew tap dbt-labs/dbt/dbt
 ```
 
 Now you're ready to install dbt. Once you know [which adapter](available-adapters) you're using, you can install it as `dbt-<adapter>`. For instance, if using Postgres:
